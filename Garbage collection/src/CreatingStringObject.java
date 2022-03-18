@@ -21,9 +21,8 @@ public class CreatingStringObject {
 		
 		System.out.println("jbk".length());
 		System.out.println("jbk".concat("java").contains("k"));// method chaining
-		
+		System.out.println("A");
 	}
 }
-
 
 
