@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="16" total="17" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4921" started-at="2022-04-12T17:29:59Z" finished-at="2022-04-12T17:30:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4921" started-at="2022-04-12T17:29:59Z" finished-at="2022-04-12T17:30:04Z">
+      <class name="HandsOnSe.LoginTest">
+        <test-method status="PASS" signature="logincheck()[pri:0, instance:HandsOnSe.LoginTest@68be2bc2]" name="logincheck" is-config="true" duration-ms="4661" started-at="2022-04-12T22:59:59Z" finished-at="2022-04-12T23:00:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logincheck -->
+        <test-method status="PASS" signature="dashboardCourses()[pri:0, instance:HandsOnSe.LoginTest@68be2bc2]" name="dashboardCourses" duration-ms="218" started-at="2022-04-12T23:00:04Z" finished-at="2022-04-12T23:00:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dashboardCourses -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:HandsOnSe.LoginTest@68be2bc2]" name="logout" is-config="true" duration-ms="4" started-at="2022-04-12T23:00:04Z" finished-at="2022-04-12T23:00:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- HandsOnSe.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
